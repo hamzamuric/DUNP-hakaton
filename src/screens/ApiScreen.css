@@ -1,0 +1,24 @@
+#api-screen {
+
+}
+
+.api-header-api {
+	background: linear-gradient(white, lightgrey);
+	height: 60px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 20px;
+}
+
+#city-name {
+	display: block;
+}
+
+#chart-container {
+	display: flex;
+	gap: 20px;
+	padding: 20px;
+	flex-wrap: wrap;
+	justify-content: center;
+}
